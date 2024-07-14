@@ -1,0 +1,9 @@
+Manufacturer=Integrated Silicon Solution Inc.
+PartNumber=IS42S16800F-7BLI
+PartCategory=Integrated Circuit
+PackageCategory=BGA
+PinCount=54
+Version=3.1
+Released=2019-11-08 11:46:50
+Downloaded=2024-07-12 16:10:18
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IS42S16800F_7BLI'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Integrated Silicon Solution Inc.", "IS42S16800F-7BLI" (!) = "", "BGA54C80P9X9_800X800X120", "BGA", "870-IS42S16800F-7BLI", "https://www.mouser.co.uk/ProductDetail/ISSI/IS42S16800F-7BLI?qs=DfG0HhEx1UUZ0TMKnBVX5A%3D%3D", "IS42S16800F-7BLI", "https://www.arrow.com/en/products/is42s16800f-7bli/integrated-silicon-solution-inc", "DRAM Chip SDRAM 128Mbit 8Mx16 3.3V 54-Pin TFBGA", "https://www.mouser.com/datasheet/2/198/42-45S81600F-16800F-258526.pdf", "1.2 mm"
+END_PART
+
+END.

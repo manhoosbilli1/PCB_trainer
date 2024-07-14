@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IS42S16800F-7BLI
+D DRAM Chip SDRAM 128Mbit 8Mx16 3.3V 54-Pin TFBGA
+K
+F https://www.mouser.com/datasheet/2/198/42-45S81600F-16800F-258526.pdf
+$ENDCMP
+#
+#End Doc Library

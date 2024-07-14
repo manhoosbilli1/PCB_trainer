@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MIMXRT1062DVJ6B")(type "KiCad")(uri "${KIPRJMOD}/MIMXRT1062DVJ6B/MIMXRT1062DVJ6B.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-07-12_15-55-32")(type "KiCad")(uri "${KIPRJMOD}/ul_MIC23158YML-T5/KiCADv6/2024-07-12_15-55-32.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-07-12_16-00-58")(type "KiCad")(uri "${KIPRJMOD}/ul_W25Q64JVXGIQ-TR/KiCADv6/2024-07-12_16-00-58.kicad_sym")(options "")(descr ""))
+  (lib (name "IS42S16800F-7BLI")(type "KiCad")(uri "${KIPRJMOD}/LIB_IS42S16800F-7BLI/IS42S16800F-7BLI/KiCad/IS42S16800F-7BLI.kicad_sym")(options "")(descr ""))
+)
